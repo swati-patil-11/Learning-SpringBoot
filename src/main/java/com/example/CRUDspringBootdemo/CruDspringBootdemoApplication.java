@@ -11,6 +11,7 @@ public class CruDspringBootdemoApplication {
 
 		SpringApplication.run(CruDspringBootdemoApplication.class, args);
 		System.out.println("Hello World!");
+		System.out.println("Hello SpringBoot Application! created successfully!");
 
 	}
 
